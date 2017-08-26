@@ -1,5 +1,6 @@
-!.gitkeep
 /certs/
 /conf/
 /logs/
 /scripts/
+
+!.gitkeep
