@@ -1,4 +1,5 @@
 FROM openresty/openresty:alpine-fat
+MAINTAINER Fabio Tea <iam@f4b.io> (http://iam.f4b.io)
 
 RUN luarocks install lua-resty-jwt
 
